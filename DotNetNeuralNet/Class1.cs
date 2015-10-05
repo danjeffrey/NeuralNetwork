@@ -12,6 +12,8 @@ using System.Threading.Tasks;
 
   This is a learning exercise and not intended to be 
   a state of the art or commercial grade tool.  
+
+  Copyright © 2015 J. Daniel Jeffrey of Reno, Nevada, USA. All rights reserved.
  **/
 namespace DotNetNeuralNet
 {
