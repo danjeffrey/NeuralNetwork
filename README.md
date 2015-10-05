@@ -4,4 +4,6 @@ Provide a simple API for defining a neural network, feeding test data, telling i
 
 This is a learning exercise and not intended to be a state of the art or commercial grade tool.  
 
-Your contributions, input, and critiques are more than welcome. 
+Any suggestions and critiques would be greatly appreciated.  
+
+
